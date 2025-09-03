@@ -14,3 +14,5 @@ Technical Implementation:
 Frontend: React Native with Expo
 Database: Firestore for real-time data sync
 Architecture: Service-based architecture with dedicated chat services
+## 📝 Note About File History
+*Due to copying branch files for showcase purposes, git history shows all files as modified by me. My actual contributions were specifically to the chat system, authentication, and UI components listed above. The original Flamant project was a collaborative effort.*
